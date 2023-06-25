@@ -1,1 +1,1 @@
-Chat Master is a chatbot created using the Streamlit app where I created a few functions for getting user input and generating output. I connected the bard cookies value which is used for generating output/ respond output for the given input.
+Chat Master is a chatbot created using the Streamlit app where I created a few functions for getting user input and generating output. I connected the bard cookies value(token value from the application of bard) which is used for generating output/responding output for the given input.
