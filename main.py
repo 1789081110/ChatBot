@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_chat import message
 from bardapi import Bard
-token='YAjpjJku3NNJ9fDwMMGb_zHsR0T2YF_bZ6yL7dlIpeWRPr31biuRcw8LfDIGD0aOVh1LOg.'
+token='token_value'
 #fun to create respond
 def generate_response(prompt):
     bard = Bard(token=token)
